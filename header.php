@@ -122,7 +122,7 @@ session_start();
 			<div id="top-header">
 				<div class="container">
 					<ul class="header-links pull-left">
-						<li><a href="#"><i class="fa fa-phone"></i> +91-8209839493</a></li>
+						<li><a href="#"><i class="fa fa-phone"></i> +91-8209XXXXXX</a></li>
 						<li><a href="#"><i class="fa fa-envelope-o"></i> vishalcomputer9414@gmail.com</a></li>
 						<li><a href="#"><i class="fa fa-map-marker"></i>Rajasthan</a></li>
 					</ul>
